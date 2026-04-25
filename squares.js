@@ -5,7 +5,7 @@ window.onload = function () { //3
         addSquare();
     }
 document.getElementById("addSquare").onclick = addSquare;
-    document.getElementById("changeColors").onclick = changeColors;
+    document.getElementById("changeColors").onclick = changeColors; //2
 }
 
 function addSquare() { //4
